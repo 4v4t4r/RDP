@@ -1,0 +1,3 @@
+D:\GitHub\RDP\bin\Debug\RDP.exe.config
+D:\GitHub\RDP\obj\Debug\RDP.exe
+D:\GitHub\RDP\obj\Debug\RDP.pdb

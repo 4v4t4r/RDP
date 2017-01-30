@@ -1,0 +1,18 @@
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.exe.config
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.exe
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.pdb
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.Properties.Resources.resources
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.exe
+c:\users\silence\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.pdb
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.exe.config
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.pdb
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.exe
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RDP.pdb
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.Properties.Resources.resources
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.exe
+C:\Users\bart.dekker\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RDP.Form1.resources
